@@ -4,7 +4,7 @@ Data-Efficient Cross-Domain H&E-to-IHC Stain Transfer via Morphology-Stain Decou
 
 ## Overview
 
-![Framework overview](assets/overview.png)
+![Framework overview](assets/DE_STAIN_overview.png)
 
 ## Installation
 
